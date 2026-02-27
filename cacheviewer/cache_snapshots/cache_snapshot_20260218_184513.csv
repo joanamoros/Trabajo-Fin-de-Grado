@@ -1,0 +1,16 @@
+Domain,IP_Addresses,TTLs
+jotform.com,34.102.158.113,IN
+30,13,RRSIG
+prnewswire.com,104.18.32.47,296
+,172.64.155.209,296
+sagepub.com,13.64.115.186,1168
+substack.com,104.18.37.200,300
+,172.64.150.56,300
+wix.com,199.15.163.133,2570
+allaboutcookies.org,172.66.131.207,300
+,172.66.131.208,300
+300,13,RRSIG
+networkadvertising.org,65.8.202.9,60
+,65.8.202.77,60
+,65.8.202.103,60
+,65.8.202.110,60
