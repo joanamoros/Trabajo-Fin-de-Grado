@@ -97,10 +97,6 @@ sudo make install
 
 ---
 
-## Imágenes
-
-![hola]("https://github.com/joanamoros/Trabajo-Fin-de-Grado/main/figuras/M.jpg")
-
 ## Autor
 
 Joan Amoros Ramírez
